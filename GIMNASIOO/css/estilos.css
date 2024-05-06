@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, rgb(68, 66, 57), rgb(208, 230, 5));
+}
+       
+      body {
+        padding-left: 10cm;
+        font-family: Verdana, Arial, sans-serif;
+        font-size: 20px;
+        color: rgb(14, 5, 5);
+        text-align: justify;
+    }
+            
+             a img {height: 100px;}
+             a {text-decoration: none; font-weight: bold; font-size: 30px; font-family: tahoma,arial;}
+
+            
+             ul.navbar{
+              list-style-type: none;
+              padding: 0;
+              margin: 0;
+              position: absolute;
+              top: .0cm;
+              left: 2cm;
+              width: 5cm;
+          }
+          
+          ul.navbar div {
+              margin: 1.10cm 8;
+              padding: 0.5cm;
+              border-top: 0.4cm solid rgb(7, 7, 6);
+              background: #e8ec10;
+              border-radius: 50%; /* Esto hace que tu div sea un círculo */
+          }
+             
+             h {
+                 text-align:center;
+                /*text-aling:right*/
+                text-shadow: 7px 4px 5px rgb(61, 15, 228) }
+
+
+              h1 {
+                 text-align:center;
+                /*text-aling:right*/
+                text-shadow: 7px 4px 5px rgb(88, 88, 41)}
+
+              h2{ text-align:center;
+                /*text-aling:right*/
+                text-shadow: 7px 4px 5px rgb(123, 238, 247)}
+
+
+        
+                body {
+                  font-family: Arial, sans-serif;
+                  background: linear-gradient(to right, rgb(97, 90, 51)), rgb(235, 226, 226);
+                }
+
+form {
+  margin: 0 auto;
+  width: 300px;
+     background-color: rgb(231, 120, 120);
+}
+
+label {
+  display: block;
+  margin-top: 20px;
+     background-color: #106fec;
+}
+
+input[type="text"], input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+ 
+}
+
+
+
+/* Cambia el color de fondo del botón al pasar el ratón por encima */
+button:hover {
+  background-color: #5c4e4e; /* Color de fondo del botón al pasar el ratón por encima */
+}
+
+
+
+
+
+
+h4 {
+  font-size: 100%;
+  margin: 1px;
+  float: right;
+  color: rgb(11, 25, 231);
+}
+
+.fa-facebook {
+  color: blue;
+}
+
+.fa-whatsapp {
+  color: rgb(21, 255, 0); 
+}
+
+.fa-youtube {
+  color: red;
+}
+
+.fa-instagram {
+  color: purple;
+}
+
+.fa-twitter {
+  color: rgb(0, 102, 255);
+}
+            
+            
+
+            h3 {
+                color: #0019fa;
+            }
+            
+            p {
+                line-height: 1.5em;
+                text-indent: 15px;
+                margin: 35px;
+            }
+            
+            img {
+                border: 2px solid rgb(9, 72, 247);
+                margin: 100px;
+                float: right;
+            }
+            
+            div.cuerpo {
+              margin: 50px 30px;
+              background: linear-gradient(to right, rgb(245, 241, 8),  #ffffff);
+            }
+                
+
+
+
+
+
+      
